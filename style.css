@@ -147,6 +147,7 @@ button:active{
     text-align: center;
     font-size: 14px;
     cursor: pointer;
+    margin-bottom: 100px;
 }
 
 .learn-more:hover{
