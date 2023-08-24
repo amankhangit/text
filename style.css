@@ -4,6 +4,16 @@ p{
     margin-bottom: 0;
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.learn{
+    color: blue;
+    text-decoration: none;
+}
+
 .video-title{
     font-weight: bold;
     font-size: 18px;
